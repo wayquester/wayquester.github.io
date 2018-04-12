@@ -21,7 +21,7 @@ section {
 }
 /* slideshow */
 .carousel-inner img{
-  height: 700px;
+  height: 100%;
 }
 
 .carousel-item > video{
