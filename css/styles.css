@@ -22,16 +22,17 @@ section {
 /* slideshow */
 .carousel-inner img{
   height: 100%;
+  width: 100%;
 }
 
-.carousel-item > video{
+/* .carousel-item > video{
   height: 100%;
   width: 100%;
   right: 0;
   left: 0;
   position: relative;
   display: block;
-}
+} */
 
 
 /* BLOG */
